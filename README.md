@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tech3ric
 - 👀 I’m interested in becoming a Software Developer.
-- 🌱 I’m currently learning Git and Python.
+- 🌱 I’m currently learning Git, Python, Django, etc...
 - 📫 You can reach me thru my email ellucernas@gmail.com
 
 <!---
